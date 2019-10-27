@@ -8,6 +8,7 @@ body {
 }
 
 .poem {
+    display: -ms-flexbox;
     display: flex;
     font-family: 'Red Hat Display', sans-serif;
     width: 600px;
