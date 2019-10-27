@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.poem {
+    font-family: 'Trebuchet MS', sans-serif;
+    width: 600px;
+    background: #EFEFEF;
+    margin: 20px auto;
+    border-radius: 20px;
+    padding: 50px;
+}
+
+.poem h3 {
+    font-style: italic;
+}
+
+.poem p {
+    margin: 20px 0 0 0;
+}
