@@ -3,6 +3,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background: url('../images/bg.png');
+}
+
 .poem {
     font-family: 'Red Hat Display', sans-serif;
     width: 600px;
